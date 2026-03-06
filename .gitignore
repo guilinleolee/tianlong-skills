@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build output
+dist/
+build/
+*.log
+
+# State files
+.openclaw-state/
+*.local.json
+
+# Secrets
+.env
+.env.local
+*.key
+*.pem
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test artifacts
+coverage/
+*.test.output

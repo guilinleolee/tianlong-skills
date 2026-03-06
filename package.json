@@ -1,0 +1,28 @@
+{
+  "name": "tianlong-skills",
+  "version": "0.1.0",
+  "description": "天龙引擎 V7.4 产品化技能套件 - 基于 Naval 财富公式打造",
+  "author": "李依依（一一）",
+  "license": "MIT",
+  "keywords": [
+    "openclaw",
+    "skills",
+    "tianlong",
+    "天龙引擎",
+    "需求分析",
+    "报告生成",
+    "竞品分析"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guilinleolee/tianlong-skills"
+  },
+  "scripts": {
+    "publish": "openclaw skills publish ./src",
+    "test": "openclaw skills test ./src",
+    "docs": "node scripts/generate-docs.js"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}
