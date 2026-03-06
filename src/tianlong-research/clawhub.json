@@ -1,0 +1,10 @@
+{
+  "slug": "tianlong-research",
+  "name": "天龙竞品/情报分析专家",
+  "version": "1.0.0",
+  "description": "基于天龙引擎的竞品分析、市场情报收集与技术调研技能",
+  "author": "李依依（一一）",
+  "license": "MIT",
+  "tags": ["竞品分析", "市场情报", "技术调研", "开源情报", "天龙引擎"],
+  "changelog": "初始发布 - 天龙引擎产品化 Day 1"
+}

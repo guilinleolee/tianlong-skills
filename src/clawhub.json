@@ -1,0 +1,10 @@
+{
+  "slug": "tianlong-analyst",
+  "name": "天龙需求分析专家",
+  "version": "1.0.0",
+  "description": "基于天龙引擎 V7.4 的需求解构与批判性思维分析技能",
+  "author": "李依依（一一）",
+  "license": "MIT",
+  "tags": ["需求分析", "批判性思维", "决策辅助", "天龙引擎"],
+  "changelog": "初始发布 - 天龙引擎产品化 Day 1"
+}
